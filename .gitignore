@@ -1,0 +1,6 @@
+data/
+temp_results/
+*/__pycache__/
+__pycache__/
+
+insight.txt
